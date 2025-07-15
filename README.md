@@ -32,15 +32,7 @@
 
 ###
 
-<p align="left">Hello to everyone and anyone who sees this page.<br>I’m Omid Karami, a Python programmer, and a bit of a researcher in robotics and artificial intelligence.<br>Here you can keep up with my projects.<br>This is my resume link: [https://omidkarami-dev-aezk.vercel.app/](https://omidkarami-dev-aezk.vercel.app/)</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
+<p align="left">Hello to everyone and anyone who sees this page.<br>I’m Omid Karami, a Python programmer, and a bit of a researcher in robotics and artificial intelligence.<br>Here you can keep up with my projects.<br>This is my resume link: [https://omidkarami-dev-aezk.vercel.app/]</p>
 
 ###
 
