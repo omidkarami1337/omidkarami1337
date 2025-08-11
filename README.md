@@ -7,19 +7,17 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ros" height="60" alt="ros logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
 ###
@@ -32,7 +30,7 @@
 
 ###
 
-<p align="left">Hello to everyone and anyone who sees this page.<br>I’m Omid Karami, a Python programmer, and a bit of a researcher in robotics and artificial intelligence.<br>Here you can keep up with my projects.<br>This is my resume link: [https://omidkarami-dev-aezk.vercel.app/]</p>
+<p align="left">Hello to everyone and anyone who sees this page.<br>I’m Omid Karami, a Python programmer, and a bit of a researcher in pentest.<br>Here you can keep up with my projects.</p>
 
 ###
 
@@ -53,6 +51,12 @@
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
 </div>
 
 ###
