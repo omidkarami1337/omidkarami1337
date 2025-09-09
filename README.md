@@ -1,12 +1,16 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHUwZjZja3FzdjI1cGp2azBwejR5aGRqOWloZTltd3lyeXdqYnYwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0CjLWIuRslvmF7H7Y/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  <a href="https://www.youtube.com/channel/UCUpQVDpDWPEXukVi0Cn9LUA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/omidkarami_dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
@@ -25,7 +29,7 @@
 
 ###
 
-<p align="left">I'm omidkarami from freedom<br><br>- 🔭 I’m working as embedded system and robotic<br>- 📚 I'm currently learning pro electronic and iot<br>- ⚡ In my free time I play video game</p>
+<p align="left">I'm omidkarami from freedom<br><br>- 🔭 I’m working as embedded system and robotic<br>- 📚 I'm currently learning pro electronic and iot<br>- ⚡ In my free time I play video game .</p>
 
 ###
 
