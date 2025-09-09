@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm omidkarami from freedom<br><br>- 🔭 I’m working as embedded system and robotic<br>- 📚 I'm currently learning pro electronic and iot<br>- ⚡ In my free time I .play video game</p>
+<p align="left">I'm omidkarami from freedom<br><br>- 🔭 I’m working as embedded system and robotic<br>- 📚 I'm currently learning pro electronic and iot<br>- ⚡ In my free time I play video game</p>
 
 ###
 
